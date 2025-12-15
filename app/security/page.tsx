@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default function Security() {
   return (
-    <section className="py-25 bg-white">
+    <section className="py-25 bg-grey-200">
       <div className="max-w-7xl mx-auto px-6 md:px-8">
 
         {/* Header */}

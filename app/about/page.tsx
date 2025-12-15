@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function AboutPage() {
   return (
-    <section className="bg-gray-100 py-22">
+    <section className="bg-gray-200 py-22">
       <div className="max-w-7xl mx-auto px-6 md:px-10 grid grid-cols-1 md:grid-cols-2 gap-14 items-center">
 
         {/* LEFT CONTENT */}
