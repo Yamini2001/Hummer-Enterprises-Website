@@ -22,14 +22,14 @@ export default function HomePage() {
         style={{ backgroundImage: "url('/hero-bg.png')" }}
       >
         {/* Light overlay */}
-  <div className="absolute inset-0 bg-white/40"></div>
+  <div className="absolute inset-0 bg-white/35"></div>
         <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-8 py-16 md:py-20 navy-text">
-          <h2 className="text-3xl md:text-5xl font-bold max-w-3xl leading-tight text-[#0B1C2D]">
+          <h2 className="text-3xl md:text-5xl font-bold max-w-3xl leading-tight text-[#093c6f]">
             Discipline. Precision.
             <br />
             Excellence in Every Project.
           </h2>
-          <p className="mt-6 text-base md:text-lg max-w-2xl text-[#0B1C2D]">
+          <p className="mt-6 text-base md:text-lg max-w-2xl text-[#093c6f]">
             Run by Ex-Servicemen – Trusted for Timely Completion
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-3 sm:gap-4">
